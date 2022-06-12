@@ -1,3 +1,9 @@
+# Awwwards remake- RE GROCERY 
+# @chaniru.lk Instagram
+![Scrrenshot](./img/screenshot.png)
+![Scrrenshot](./img/screenshot2.png)
+Awwwards remake | RE GROCERY HTML5 CSS3 JAVA 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
