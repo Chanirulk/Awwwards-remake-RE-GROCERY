@@ -1,7 +1,7 @@
 # Awwwards remake- RE GROCERY 
 # @chaniru.lk Instagram
-![Screenshot](../Img/screenshot.png)
-![Screenshot](../Img/screenshot2.png)
+![Screenshot](./Img/screenshot.png)
+
 Awwwards remake | RE GROCERY HTML5 CSS3 JAVA 
 
 # Getting Started with Create React App
