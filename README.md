@@ -2,6 +2,8 @@
 # @chaniru.lk Instagram
 ![Screenshot](./src/components/Img/screenshot.png)
 
+![Screenshot](./src/components/Img/screenshot2.png)
+
 Awwwards remake | RE GROCERY HTML5 CSS3 JAVA 
 
 # Getting Started with Create React App
